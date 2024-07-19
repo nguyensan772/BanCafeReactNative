@@ -1,0 +1,182 @@
+{
+  "TaiKhoan": [
+    {
+      "tenND": "doanxem@gmail.com",
+      "matKhau": "chaocau",
+      "ten": "sandeptrai",
+      "anh": "https://demoda.vn/wp-content/uploads/2022/02/anh-anh-da-den-cuoi.jpg",
+      "id": "1"
+    },
+    {
+      "tenND": "1@gmail.com",
+      "matKhau": "",
+      "ten": "san",
+      "anh": "1",
+      "id": "297b"
+    },
+    {
+      "id": "3dbb",
+      "ten": "san",
+      "tenND": "san@gmail.com",
+      "matKhau": "111111"
+    },
+    {
+      "id": "29f1",
+      "ten": "1",
+      "tenND": "1@gmail.com",
+      "matKhau": "123"
+    },
+    {
+      "id": "1ef1",
+      "ten": "1",
+      "tenND": "sann@gmail.com",
+      "matKhau": "123"
+    },
+    {
+      "id": "4ca8",
+      "ten": "San",
+      "tenND": "hoicham@gmail.com",
+      "matKhau": "111111"
+    }
+  ],
+  "SanPham": [
+    {
+      "anhSP": "https://tse3.mm.bing.net/th?id=OIP.DPYy0HJLYzTz7-Xmvy_J9gHaHa&pid=Api&P=0&h=180",
+      "tenSP": "Samsung A23",
+      "giaSP": 20,
+      "loaiSP": "normal",
+      "yeuThich": true,
+      "gioHang": true,
+      "moTa": "Điện thoại khá xịn",
+      "soLuong": 1,
+      "daXem": 0,
+      "id": "1"
+    },
+    {
+      "anhSP": "https://i5.walmartimages.com/asr/963ca2fd-2e2d-47cd-89f2-a4490f3c2cc4.7faef8e649c026f04c603165415095f3.png",
+      "tenSP": "Samsung A33",
+      "giaSP": 20,
+      "loaiSP": "normal",
+      "yeuThich": true,
+      "gioHang": false,
+      "moTa": "Thuowng hiệu samsung",
+      "soLuong": 1,
+      "daXem": 0,
+      "id": "2"
+    }
+  ],
+  "HoaDon": [
+    {
+      "idSP": "1",
+      "soLuong": 1,
+      "id": "12f5"
+    },
+    {
+      "id": "05ba",
+      "idSP": [
+        {
+          "anhSP": "https://tse3.mm.bing.net/th?id=OIP.DPYy0HJLYzTz7-Xmvy_J9gHaHa&pid=Api&P=0&h=180",
+          "tenSP": "Samsung A23",
+          "giaSP": 20,
+          "loaiSP": "normal",
+          "yeuThich": true,
+          "gioHang": true,
+          "moTa": "Điện thoại khá xịn",
+          "soLuong": 1,
+          "daXem": 0,
+          "id": "1"
+        }
+      ],
+      "gia": 20,
+      "ngay": "4,11,3,2024"
+    },
+    {
+      "id": "0b27",
+      "idSP": [
+        {
+          "anhSP": "https://tse3.mm.bing.net/th?id=OIP.DPYy0HJLYzTz7-Xmvy_J9gHaHa&pid=Api&P=0&h=180",
+          "tenSP": "Samsung A23",
+          "giaSP": 20,
+          "loaiSP": "normal",
+          "yeuThich": true,
+          "gioHang": true,
+          "moTa": "Điện thoại khá xịn",
+          "soLuong": 1,
+          "daXem": 0,
+          "id": "1"
+        }
+      ],
+      "gia": 20,
+      "ngay": "4,11,3,2024"
+    },
+    {
+      "id": "341b",
+      "idSP": [
+        {
+          "anhSP": "https://tse3.mm.bing.net/th?id=OIP.DPYy0HJLYzTz7-Xmvy_J9gHaHa&pid=Api&P=0&h=180",
+          "tenSP": "Samsung A23",
+          "giaSP": 20,
+          "loaiSP": "normal",
+          "yeuThich": true,
+          "gioHang": true,
+          "moTa": "Điện thoại khá xịn",
+          "soLuong": 1,
+          "daXem": 0,
+          "id": "1"
+        },
+        {
+          "anhSP": "https://i5.walmartimages.com/asr/963ca2fd-2e2d-47cd-89f2-a4490f3c2cc4.7faef8e649c026f04c603165415095f3.png",
+          "tenSP": "Samsung A33",
+          "giaSP": 20,
+          "loaiSP": "normal",
+          "yeuThich": true,
+          "gioHang": true,
+          "moTa": "Thuowng hiệu samsung",
+          "soLuong": 1,
+          "daXem": 0,
+          "id": "2"
+        }
+      ],
+      "gia": 40,
+      "ngay": "4,11,3,2024"
+    }
+  ],
+  "BinhLuan": [
+    {
+      "id": "1",
+      "idSp": "1",
+      "email": "doanxem@gmail.com",
+      "binhLuan": "Ok đấy"
+    },
+    {
+      "id": "e574",
+      "idSp": "1",
+      "binhLuan": "xem nào"
+    },
+    {
+      "id": "d607",
+      "idSp": "2",
+      "binhLuan": "đẹp qu´"
+    },
+    {
+      "id": "8b4b",
+      "idSp": "1",
+      "binhLuan": ""
+    },
+    {
+      "id": "67bd",
+      "idSp": "1",
+      "binhLuan": "hi"
+    },
+    {
+      "id": "a376",
+      "idSp": "1",
+      "binhLuan": "ok"
+    },
+    {
+      "id": "c10e",
+      "idSp": "1",
+      "binhLuan": "hello"
+    }
+  ]
+}

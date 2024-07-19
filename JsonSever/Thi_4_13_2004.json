@@ -1,0 +1,52 @@
+{
+  "SinhVien": [
+    {
+      "tenPh32936": "Nguyễn Đức San",
+      "monPh32936": "CRO2 dd",
+      "ngayPh32936": "13/4/2024",
+      "anhPh32936": "https://demoda.vn/wp-content/uploads/2022/02/anh-anh-da-den-cuoi.jpg",
+      "caPh32936": 2,
+      "id": "0a15"
+    },
+    {
+      "tenPh32936": "12",
+      "monPh32936": "12",
+      "ngayPh32936": "1",
+      "anhPh32936": "1",
+      "caPh32936": "1",
+      "id": "6699"
+    },
+    {
+      "id": "b2f4",
+      "tenPh32936": "2",
+      "monPh32936": "2",
+      "ngayPh32936": "2",
+      "anhPh32936": "2",
+      "caPh32936": "2"
+    },
+    {
+      "id": "7be7",
+      "tenPh32936": "2",
+      "monPh32936": "2",
+      "ngayPh32936": "2",
+      "anhPh32936": "2",
+      "caPh32936": "2"
+    },
+    {
+      "id": "2715",
+      "tenPh32936": "2",
+      "monPh32936": "2",
+      "ngayPh32936": "2",
+      "anhPh32936": "2",
+      "caPh32936": "2"
+    },
+    {
+      "id": "79a6",
+      "tenPh32936": "2",
+      "monPh32936": "2",
+      "ngayPh32936": "2",
+      "anhPh32936": "2",
+      "caPh32936": "2"
+    }
+  ]
+}
